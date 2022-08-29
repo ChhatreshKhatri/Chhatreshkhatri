@@ -4,8 +4,9 @@
 
 ## About me
 
-Enhancing learning and improving skills in technology field.
-I'm currently doing data structures for competitive programming
+Learning and improving skills in technology field.
+I'm currently doing data structures and improving problem solving skills.
+Intreset in web/ app development.
 
 
 ## My projects
