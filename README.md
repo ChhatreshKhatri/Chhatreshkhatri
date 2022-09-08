@@ -6,7 +6,6 @@
 
 Learning and improving skills in technology field.<br/>
 I'm currently doing data structures and improving problem solving skills.<br/>
-Inteset in web/ app development.
 
 
 ## My projects
