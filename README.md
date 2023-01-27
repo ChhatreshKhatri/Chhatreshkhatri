@@ -1,11 +1,10 @@
-# Chhatesh Khatri
+# [Chhatesh Khatri](www.chhatreshkhatri.com)
 
 ### Hi there 👋
 
 ## About me
 
 Learning and improving skills in technology field.<br/>
-I'm currently doing data structures and improving problem solving skills.<br/>
 
 
 ## My projects
