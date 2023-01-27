@@ -1,4 +1,4 @@
-# [Chhatesh Khatri](www.chhatreshkhatri.com)
+# [Chhatesh Khatri](https://www.chhatreshkhatri.com)
 
 ### Hi there 👋
 
