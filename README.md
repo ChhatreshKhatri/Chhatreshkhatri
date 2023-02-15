@@ -39,9 +39,9 @@ Checkout here :- [Blog link](https://www.alibabacloud.com/blog/project-showcase-
 
 # 📊 GitHub Stats
 <p align = "center">
-<img src="https://github-readme-stats.vercel.app/api?username=chhatreshkhatri&theme=dark&hide_border=false&include_all_commits=false&count_private=true" width=100%/> <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chhatreshkhatri&theme=dark" width=100%/><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chhatreshkhatri&layout=compact&theme=dark&langs_count=10" width=100%/><br/>
-<img src="https://visitcount.itsvg.in/api?id=chhatreshkhatri&label=Profile%20Views&color=12&icon=5&pretty=false" width=150/>
+<img src="https://github-readme-stats.vercel.app/api?username=chhatreshkhatri&theme=dark&hide_border=false&include_all_commits=false&count_private=true" width=500/> <br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chhatreshkhatri&theme=dark" width=500/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chhatreshkhatri&layout=compact&theme=dark&langs_count=10" width=500/><br/>
+<img src="https://visitcount.itsvg.in/api?id=chhatreshkhatri&label=Profile%20Views&color=12&icon=5&pretty=false" />
 
 </p>
