@@ -32,7 +32,37 @@ Checkout here :- [Blog link](https://www.alibabacloud.com/blog/project-showcase-
 
 # 💻 Tech Stack
 
-![C](https://img.shields.io/badge/c-1563b1.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-004488.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-3a75b0.svg?style=flat&logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/MySql-f29111.svg?style=flat&logo=mysql) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-702cf5.svg?style=flat&logo=bootstrap&logoColor=white) ![Node](https://img.shields.io/badge/Node.js-233056.svg?style=flat&logo=nodedotjs) ![React](https://img.shields.io/badge/ReactJS-282c34.svg?style=flat&logo=react&logoColor=61dafb) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-001e2b.svg?style=flat&logo=mongodb) ![nodemon](https://img.shields.io/badge/nodemon-4f4d3f.svg?style=flat&logo=nodemon) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify) ![Render](https://img.shields.io/badge/render-1f1f1f.svg?style=flat&logo=render) ![Back4App](https://img.shields.io/badge/-Back4App-10203a?logo=back4app) ![Git](https://img.shields.io/badge/-Git-f0efe7?logo=git) ![GitHub](https://img.shields.io/badge/-GitHUb-161b22?logo=github) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-0e2426.svg?style=flat&logo=gimp&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-1d1d1d?style=flat&logo=cloudflare&logoColor=orange) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-2c3134?style=flat&logo=alibabacloud) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-5f6368?style=flat&logo=googlecloud) ![VS Code](https://img.shields.io/badge/VSCode-1f1f1f?logo=visualstudiocode&logoColor=026ec1)
+![C](https://img.shields.io/badge/c-1563b1.svg?style=flat&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-004488.svg?style=flat&logo=c%2B%2B&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-3a75b0?style=flat&logo=openjdk&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySql-f29111.svg?style=flat&logo=mysql) 
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-702cf5.svg?style=flat&logo=bootstrap&logoColor=white) 
+![Node](https://img.shields.io/badge/Node.js-233056.svg?style=flat&logo=nodedotjs) 
+![React](https://img.shields.io/badge/ReactJS-282c34.svg?style=flat&logo=react&logoColor=61dafb) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) 
+![Axios](https://img.shields.io/badge/Axios-5A29E4.svg?style=flat&logo=Axios&logoColor=white)
+![React-router](https://img.shields.io/badge/React%20Router-CA4245.svg?style=flat&logo=React-Router&logoColor=white)
+![React-redux](https://img.shields.io/badge/Redux-764ABC.svg?style=flat&logo=Redux&logoColor=white)
+![.env](https://img.shields.io/badge/.ENV-ECD53F.svg?style=flat&logo=dotenv&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-001e2b.svg?style=flat&logo=mongodb) 
+![nodemon](https://img.shields.io/badge/nodemon-4f4d3f.svg?style=flat&logo=nodemon) 
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify) 
+![Render](https://img.shields.io/badge/render-1f1f1f.svg?style=flat&logo=render) 
+![Back4App](https://img.shields.io/badge/-Back4App-10203a?logo=back4app) 
+![Git](https://img.shields.io/badge/-Git-f0efe7?logo=git) 
+![GitHub](https://img.shields.io/badge/-GitHUb-161b22?logo=github) 
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 
+![Gimp](https://img.shields.io/badge/Gimp-0e2426.svg?style=flat&logo=gimp&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) 
+![Cloudflare](https://img.shields.io/badge/Cloudflare-1d1d1d?style=flat&logo=cloudflare&logoColor=orange) 
+![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-2c3134?style=flat&logo=alibabacloud) 
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-5f6368?style=flat&logo=googlecloud) 
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=Android-Studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-1f1f1f?logo=visualstudiocode&logoColor=026ec1)
 
 
 <br/>
