@@ -1,7 +1,16 @@
 # 💫 About Me
 
-Learning and improving skills in technology field.<br/>
-Checkout my website here :- [Portfolio](https://www.chhatreshkhatri.com)
+## GitHub Profile: Chhatresh Khatri
+
+Welcome to my GitHub profile! I am a web developer with a passion for building modern, user-friendly websites and applications. On this profile, you will find a range of projects that showcase my skills in front-end development, back-end development, and full-stack development.
+
+Some of the projects you'll find on this profile include Portfolio, Stackoverflow-clone, amazon-clone and MyChat. These projects were built using [Skills](README.md#tech-stack), and showcase my ability to write clean, modular code and follow industry best practices.
+
+In addition to my projects, I also have a custom domain portfolio hosted on GitHub Pages, which you can find at [Portfolio](https://www.chhatreshkhatri.com). This portfolio showcases my skills in responsive design, Technology stack, projects, and web development.
+
+I am always looking for new opportunities to collaborate on projects and learn from other developers. If you're interested in working together, feel free to reach out to me on LinkedIn or via email.
+
+Thank you for visiting my profile, and I hope you enjoy exploring my projects!<br/>
 
 <br/>
 
@@ -30,7 +39,7 @@ Checkout here :- [Blog link](https://www.alibabacloud.com/blog/project-showcase-
 
 <br/>
 
-# 💻 Tech Stack
+# 💻 [Tech Stack](#tech-stack)
 
 ![C](https://img.shields.io/badge/c-1563b1.svg?style=flat&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-004488.svg?style=flat&logo=c%2B%2B&logoColor=white) 
