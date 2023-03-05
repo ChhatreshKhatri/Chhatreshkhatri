@@ -39,7 +39,7 @@ Checkout here :- [Blog link](https://www.alibabacloud.com/blog/project-showcase-
 
 <br/>
 
-# 💻 [Tech Stack](#tech-stack)
+# 💻 Tech Stack
 
 ![C](https://img.shields.io/badge/c-1563b1.svg?style=flat&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-004488.svg?style=flat&logo=c%2B%2B&logoColor=white) 
