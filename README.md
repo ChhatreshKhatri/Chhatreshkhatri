@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I am a web developer with a passion for building modern, user-friendly websites and applications. On this profile, you will find a range of projects that showcase my skills in front-end development, back-end development, and full-stack development.
 
-Some of the projects you'll find on this profile include Portfolio, Stackoverflow-clone, amazon-clone and MyChat. These projects were built using [Tech Stack](https://github.com/Chhatreshkhatri/Chhatreshkhatri/blob/master/README.md#tech-stack), and showcase my ability to write clean, modular code and follow industry best practices.
+Some of the projects you'll find on this profile include Portfolio, Stackoverflow-clone, amazon-clone and MyChat. These projects were built using Tech Stack, and showcase my ability to write clean, modular code and follow industry best practices.
 
 In addition to my projects, I also have a custom domain portfolio hosted on GitHub Pages, which you can find at [Portfolio](https://www.chhatreshkhatri.com). This portfolio showcases my skills in responsive design, Technology stack, projects, and web development.
 
@@ -20,7 +20,7 @@ Thank you for visiting my profile, and I hope you enjoy exploring my projects!<b
   Built using HTML, CSS, React Js, stripe, Firebase, Git & GitHub with VS Code IDE.<br/>
   Checkout here :- [Live app link](https://clone-a2550.web.app/) &emsp; [GitHub link](https://github.com/Chhatreshkhatri/amazon-clone)
 
-- StackOverrflow-clone : A question and answer website.
+- StackOverrflow-clone : A question and answer website with integrated chatbot.
   Built using HTML, CSS, JavaScript, React Js, ExpressJS, Mongoose, Git & GitHub with VS Code IDE.<br/>
   Checkout here :- [Live app link](https://stack-overflow-build.netlify.app/) &emsp; [GitHub link](https://github.com/Chhatreshkhatri/stack-overflow-clone)
 
