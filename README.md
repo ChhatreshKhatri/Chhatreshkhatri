@@ -1,6 +1,6 @@
 # 💫 About Me
 
-## GitHub Profile: Chhatresh Khatri
+## [Chhatresh Khatri](https://www.chhatreshkhatri.com)
 
 Welcome to my GitHub profile! I am a web developer with a passion for building modern, user-friendly websites and applications. On this profile, you will find a range of projects that showcase my skills in front-end development, back-end development, and full-stack development.
 
