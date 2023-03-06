@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I am a web developer with a passion for building modern, user-friendly websites and applications. On this profile, you will find a range of projects that showcase my skills in front-end development, back-end development, and full-stack development.
 
-Some of the projects you'll find on this profile include Portfolio, Stackoverflow-clone, amazon-clone and MyChat. These projects were built using Tech Stack, and showcase my ability to write clean, modular code and follow industry best practices.
+Some of the projects you'll find on this profile include [My Projects](#📝-my-projects). These projects were built using [Tech Stack](#💻-tech-stack), and showcase my ability to write clean, modular code and follow industry best practices.
 
 In addition to my projects, I also have a custom domain portfolio hosted on GitHub Pages, which you can find at [Portfolio](https://www.chhatreshkhatri.com). This portfolio showcases my skills in responsive design, Technology stack, projects, and web development.
 
