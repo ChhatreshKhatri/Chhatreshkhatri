@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I am a web developer with a passion for building modern, user-friendly websites and applications. On this profile, you will find a range of projects that showcase my skills in front-end development, back-end development, and full-stack development.
 
-Some of the projects you'll find on this profile include [My Projects](#myProjects). These projects were built using [Tech Stack](#techStack), and showcase my ability to write clean, modular code and follow industry best practices.
+Some of the projects you'll find on this profile include [My Projects](#📝-my-projects). These projects were built using [Tech Stack](#💻-tech-stack), and showcase my ability to write clean, modular code and follow industry best practices.
 
 In addition to my projects, I also have a custom domain portfolio hosted on GitHub Pages, which you can find at [Portfolio](https://www.chhatreshkhatri.com). This portfolio showcases my skills in responsive design, Technology stack, projects, and web development.
 
@@ -12,7 +12,7 @@ Thank you for visiting my profile, and I hope you enjoy exploring my projects!<b
 
 <br/>
 
-# <span id='myProjects'>📝 My projects</span>
+# 📝 My projects
 
 - Amazon-clone : An E-Commerce website.
   Built using HTML, CSS, React Js, stripe, Firebase, Git & GitHub with VS Code IDE.<br/>
@@ -28,7 +28,7 @@ Thank you for visiting my profile, and I hope you enjoy exploring my projects!<b
 
 <br>
 
-# <span id='achievements'>🏆 Achievements</span>
+# 🏆 Achievements
 
 - Secured 2nd position out of 2043 participants in Alibaba Cloud Low-Code
 Development Contest 2022 in which I built an online Jewellery site using
@@ -37,7 +37,7 @@ Checkout here :- [Blog link](https://www.alibabacloud.com/blog/project-showcase-
 
 <br/>
 
-# <span id="techStack">💻 Tech Stack</span>
+# 💻 Tech Stack
 
 ![C](https://img.shields.io/badge/c-1563b1.svg?style=flat&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-004488.svg?style=flat&logo=c%2B%2B&logoColor=white) 
