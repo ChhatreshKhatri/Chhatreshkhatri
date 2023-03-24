@@ -70,6 +70,9 @@ Checkout here :- [Blog link](https://www.alibabacloud.com/blog/project-showcase-
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-5f6368?style=flat&logo=googlecloud) 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=Android-Studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-1f1f1f?logo=visualstudiocode&logoColor=026ec1)
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?&logo=Linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?&logo=Ubuntu&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows%2011-0078D4.svg?&logo=Windows-11&logoColor=white)
 
 
 <br/>
