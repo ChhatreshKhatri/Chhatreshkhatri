@@ -14,17 +14,26 @@ Thank you for visiting my profile, and I hope you enjoy exploring my projects!<b
 
 # 📝 My projects
 
-- Amazon-clone : An E-Commerce website.
+- Portfolio : Portfolio website<br>
+  Deployed on Alibaba cloud ECS(ecs.n4.large) with Ubuntu, nginx and certbot for ssl certificate built using ReactJS.<br>
+  Checkout here :- [Live Link](https://portfolio.chhatreshkhatri.com/) &emsp; [source code]()<br>
+  
+- Ramaa Creations : An e-commerce homemade Jewellery website<br>
+  built using Alibaba Cloud Tools (Alicms) at Alibaba Cloud Low-Code
+  Development Contest 2022.<br>
+  Checkout here :- [Live Link](http://w-58018-23029-15377.4724382204.sites.hkalimatch01.shopali.net/)
+
+- Amazon-clone : An E-Commerce website<br>
   Built using HTML, CSS, React Js, stripe, Firebase, Git & GitHub with VS Code IDE.<br/>
-  Checkout here :- [Live app link](https://clone-a2550.web.app/) &emsp; [GitHub link](https://github.com/Chhatreshkhatri/amazon-clone)
+  Checkout here :- [Live link](https://amazonclone.chhatreshkhatri.com/) &emsp; [Source Code](https://github.com/Chhatreshkhatri/amazon-clone)
 
-- StackOverrflow-clone : A question and answer website with integrated chatbot.
+- StackOverrflow-clone : A question and answer website with integrated chatbot<br>
   Built using HTML, CSS, JavaScript, React Js, ExpressJS, Mongoose, Git & GitHub with VS Code IDE.<br/>
-  Checkout here :- [Live app link](https://stack-overflow-build.netlify.app/) &emsp; [GitHub link](https://github.com/Chhatreshkhatri/stack-overflow-clone)
+  Checkout here :- [Live link](https://soclone.chhatreshkhatri.com/) &emsp; [Source Code](https://github.com/Chhatreshkhatri/stack-overflow-clone)
 
-- MyChat : A simple android chat application.
+- MyChat : A simple android chat application<br>
   Built using JAVA, Firebase, Git & GitHub with Android Studio IDE.<br>
-  Checkout here :- [GitHub link](https://github.com/Chhatreshkhatri/MyChat)
+  Checkout here :- [Source Code](https://github.com/Chhatreshkhatri/MyChat)
 
 <br>
 
