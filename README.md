@@ -6,7 +6,7 @@ Some of the projects you'll find on this profile include [My Projects](#-my-proj
 
 In addition to my projects, I also have a custom domain portfolio hosted on GitHub Pages, which you can find at [Portfolio](https://www.chhatreshkhatri.com). This portfolio showcases my skills in responsive design, Technology stack, projects, and web development.
 
-I am always looking for new opportunities to collaborate on projects and learn from other developers. If you're interested in working together, feel free to reach out to me on LinkedIn or via email.
+I am always looking for new opportunities to collaborate on projects and learn from other developers. If you're interested in working together, feel free to reach out to me [Contact](#-social-profiles).
 
 Thank you for visiting my profile, and I hope you enjoy exploring my projects!<br/>
 
@@ -17,7 +17,6 @@ Thank you for visiting my profile, and I hope you enjoy exploring my projects!<b
 - Portfolio : Portfolio website<br>
   Deployed on Alibaba cloud ECS(ecs.n4.large) with Ubuntu, nginx and certbot for ssl certificate built using ReactJS.<br>
   Checkout here :- [Live Link](https://portfolio.chhatreshkhatri.com/) &emsp; [source code]()<br>
-  
 - Ramaa Creations : An e-commerce homemade Jewellery website<br>
   built using Alibaba Cloud Tools (Alicms) at Alibaba Cloud Low-Code
   Development Contest 2022.<br>
@@ -40,54 +39,56 @@ Thank you for visiting my profile, and I hope you enjoy exploring my projects!<b
 # 🏆 Achievements
 
 - Secured 2nd position out of 2043 participants in Alibaba Cloud Low-Code
-Development Contest 2022 in which I built an online Jewellery site using
-Alibaba Cloud tools.<br/>
-Checkout here :- [Blog link](https://www.alibabacloud.com/blog/project-showcase-%7C-ramaa-creations_598812)
+  Development Contest 2022 in which I built an online Jewellery site using
+  Alibaba Cloud tools.<br/>
+  Checkout here :- [Blog link](https://www.alibabacloud.com/blog/project-showcase-%7C-ramaa-creations_598812)
 
 <br/>
 
 # 💻 Tech Stack
 
-![C](https://img.shields.io/badge/c-1563b1.svg?style=flat&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-004488.svg?style=flat&logo=c%2B%2B&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-3a75b0?style=flat&logo=openjdk&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySql-f29111.svg?style=flat&logo=mysql) 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-702cf5.svg?style=flat&logo=bootstrap&logoColor=white) 
-![Node](https://img.shields.io/badge/Node.js-233056.svg?style=flat&logo=nodedotjs) 
-![React](https://img.shields.io/badge/ReactJS-282c34.svg?style=flat&logo=react&logoColor=61dafb) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) 
+![C](https://img.shields.io/badge/c-1563b1.svg?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-004488.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-3a75b0?style=flat&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySql-f29111.svg?style=flat&logo=mysql)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![Bootstrap](https://img.shields.io/badge/bootstrap-702cf5.svg?style=flat&logo=bootstrap&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-233056.svg?style=flat&logo=nodedotjs)
+![React](https://img.shields.io/badge/ReactJS-282c34.svg?style=flat&logo=react&logoColor=61dafb)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4.svg?style=flat&logo=Axios&logoColor=white)
 ![React-router](https://img.shields.io/badge/React%20Router-CA4245.svg?style=flat&logo=React-Router&logoColor=white)
 ![React-redux](https://img.shields.io/badge/Redux-764ABC.svg?style=flat&logo=Redux&logoColor=white)
 ![.env](https://img.shields.io/badge/.ENV-ECD53F.svg?style=flat&logo=dotenv&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-001e2b.svg?style=flat&logo=mongodb) 
-![nodemon](https://img.shields.io/badge/nodemon-4f4d3f.svg?style=flat&logo=nodemon) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify) 
-![Render](https://img.shields.io/badge/render-1f1f1f.svg?style=flat&logo=render) 
-![Back4App](https://img.shields.io/badge/-Back4App-10203a?logo=back4app) 
-![Git](https://img.shields.io/badge/-Git-f0efe7?logo=git) 
-![GitHub](https://img.shields.io/badge/-GitHUb-161b22?logo=github) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 
-![Gimp](https://img.shields.io/badge/Gimp-0e2426.svg?style=flat&logo=gimp&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) 
-![Cloudflare](https://img.shields.io/badge/Cloudflare-1d1d1d?style=flat&logo=cloudflare&logoColor=orange) 
-![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-2c3134?style=flat&logo=alibabacloud) 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-5f6368?style=flat&logo=googlecloud) 
+![MongoDB](https://img.shields.io/badge/MongoDB-001e2b.svg?style=flat&logo=mongodb)
+![nodemon](https://img.shields.io/badge/nodemon-4f4d3f.svg?style=flat&logo=nodemon)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify)
+![Render](https://img.shields.io/badge/render-1f1f1f.svg?style=flat&logo=render)
+![Back4App](https://img.shields.io/badge/-Back4App-10203a?logo=back4app)
+![Git](https://img.shields.io/badge/-Git-f0efe7?logo=git)
+![GitHub](https://img.shields.io/badge/-GitHUb-161b22?logo=github)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
+![Gimp](https://img.shields.io/badge/Gimp-0e2426.svg?style=flat&logo=gimp&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-1d1d1d?style=flat&logo=cloudflare&logoColor=orange)
+![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-2c3134?style=flat&logo=alibabacloud)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-5f6368?style=flat&logo=googlecloud)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=Android-Studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-1f1f1f?logo=visualstudiocode&logoColor=026ec1)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?&logo=Linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?&logo=Ubuntu&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-0078D4.svg?&logo=Windows-11&logoColor=white)
 
-
 <br/>
 
 # 📊 GitHub Stats
 
+<details>
+  <summary><b><samp> 📈 My GitHub Stats(click)</samp></b></summary>
+<br>
 <div align = "center">
 <img src="https://github-readme-stats.vercel.app/api?username=chhatreshkhatri&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width=500/> <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=chhatreshkhatri&theme=dark" width=500/><br/>
@@ -95,3 +96,19 @@ Checkout here :- [Blog link](https://www.alibabacloud.com/blog/project-showcase-
 <img src="https://visitcount.itsvg.in/api?id=chhatreshkhatri&label=Profile%20Views&color=12&icon=5" />
 
 </div>
+
+</details>
+
+<br/>
+
+# 📫 Social Profiles
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/chhatresh)
+[![Email](https://img.shields.io/badge/Email-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:contact@chhatreshkhatri.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/chhatreshkhatri)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/chhatreshkhatri/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/chhatreshkhatri/)
+[![GFG](https://img.shields.io/badge/GeeksforGeeks-2F8D46.svg?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/chhatreshkhatri)
+
+<!-- [![Steam](https://img.shields.io/badge/Steam-000000.svg?style=for-the-badge&logo=Steam&logoColor=white)](https://steamcommunity.com/id/DLoUCK/) -->
+
