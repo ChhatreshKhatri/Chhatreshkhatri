@@ -76,11 +76,11 @@ Thank you for visiting my profile, and I hope you enjoy exploring my projects!<b
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-1d1d1d?style=flat&logo=cloudflare&logoColor=orange)
 ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-2c3134?style=flat&logo=alibabacloud)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-5f6368?style=flat&logo=googlecloud)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=Android-Studio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-fff.svg?style=flat&logo=Android-Studio)
 ![VS Code](https://img.shields.io/badge/VSCode-1f1f1f?logo=visualstudiocode&logoColor=026ec1)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?&logo=Linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?&logo=Ubuntu&logoColor=white)
-![Windows 11](https://img.shields.io/badge/Windows%2011-0078D4.svg?&logo=Windows-11&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-333333.svg?&logo=Ubuntu)
+![Windows 11](https://img.shields.io/badge/Windows%2011-0078D4.svg?&logo=Windows-11)
 
 <br/>
 
