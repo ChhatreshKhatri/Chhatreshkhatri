@@ -1,6 +1,6 @@
 # 💫 About Me
 
-Welcome to my GitHub profile! I am a web developer with a passion for building modern, user-friendly websites and applications. On this profile, you will find a range of projects that showcase my skills in front-end development, back-end development, and full-stack development.
+Welcome to my GitHub profile! I am a Full Stack developer with a passion for building modern, user-friendly websites and applications. On this profile, you will find a range of projects that showcase my skills in front-end development, back-end development, and full-stack development.
 
 Some of the projects you'll find on this profile include [My Projects](#-my-projects). These projects were built using [Tech Stack](#-tech-stack), and showcase my ability to write clean, modular code and follow industry best practices.
 
