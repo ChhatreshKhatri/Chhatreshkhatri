@@ -1,14 +1,14 @@
 # 💫 About Me
 
-Welcome to my GitHub profile! I am a Full Stack developer with a passion for building modern, user-friendly websites and applications. On this profile, you will find a range of projects that showcase my skills in front-end development, back-end development, and full-stack development.
+Welcome to my GitHub profile! I am a Full Stack Developer with a passion for building modern, user-friendly websites and applications. On this profile, you will find a range of projects that showcase my skills in front-end development, back-end development, and full-stack development.
 
 Some of the projects you'll find on this profile include [My Projects](#-my-projects). These projects were built using [Tech Stack](#-tech-stack), and showcase my ability to write clean, modular code and follow industry best practices.
 
-In addition to my projects, I also have a custom domain portfolio hosted on GitHub Pages, which you can find at [Portfolio](https://www.chhatreshkhatri.com). This portfolio showcases my skills in responsive design, Technology stack, projects, and web development.
+In addition to my projects, I also have a custom domain portfolio, which you can find at [chhatreshkhatri.com](https://www.chhatreshkhatri.com). This portfolio showcases my skills in responsive design, Technology stack, projects, and web development.
 
 I am always looking for new opportunities to collaborate on projects and learn from other developers. If you're interested in working together, feel free to reach out to me [Contact](#-social-profiles).
 
-Thank you for visiting my profile, and I hope you enjoy exploring my projects!<br/>
+Thank you for visiting my profile, and I hope you enjoy exploring my projects!
 
 <br>
 
@@ -16,11 +16,11 @@ Thank you for visiting my profile, and I hope you enjoy exploring my projects!<b
 
 - Portfolio : Portfolio website<br>
   Built using Next.js, Tailwind CSS and TypeScript. Deployed on Cloudflare.<br>
-  Checkout here :- [Live Link](https://chhatreshkhatri.com/) &emsp; [source code](https://github.com/Chhatreshkhatri/portfolio-nextjs)<br>
+  Checkout here :- [Live Link](https://chhatreshkhatri.com/) &emsp; [source code](https://github.com/Chhatreshkhatri/portfolio-nextjs)
 
 - Ramaa Creations : An e-commerce homemade Jewellery website<br>
   built using Alibaba Cloud Tools (Alicms) at Alibaba Cloud Low-Code Development Contest 2022.<br>
-  Checkout here :- [Live Link](http://w-58018-23029-15377.4724382204.sites.hkalimatch01.shopali.net/)
+  Checkout here :- [Link](https://www.alibabacloud.com/blog/598812)
 
 - Amazon-clone : An E-Commerce website<br>
   Built using HTML, CSS, React Js, stripe, Firebase, Git & GitHub with VS Code IDE.<br/>
@@ -41,7 +41,7 @@ Thank you for visiting my profile, and I hope you enjoy exploring my projects!<b
 - Secured 2nd position out of 2043 participants in Alibaba Cloud Low-Code
   Development Contest 2022 in which I built an online Jewellery site using
   Alibaba Cloud tool ( Alicms ).<br/>
-  Checkout here :- [Blog link](https://www.alibabacloud.com/blog/project-showcase-%7C-ramaa-creations_598812)
+  Checkout here :- [Blog link](https://www.alibabacloud.com/blog/598754)
 
 <br>
 
@@ -61,7 +61,6 @@ Thank you for visiting my profile, and I hope you enjoy exploring my projects!<b
 ![Next](https://img.shields.io/badge/Next.js-000000.svg?&logo=nextdotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4.svg?style=flat&logo=Axios&logoColor=white)
-![React-router](https://img.shields.io/badge/React%20Router-CA4245.svg?style=flat&logo=React-Router&logoColor=white)
 ![React-redux](https://img.shields.io/badge/Redux-764ABC.svg?style=flat&logo=Redux&logoColor=white)
 ![.env](https://img.shields.io/badge/.ENV-ECD53F.svg?style=flat&logo=dotenv&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/Mongo%20DB-001e2b.svg?style=flat&logo=mongodb)
