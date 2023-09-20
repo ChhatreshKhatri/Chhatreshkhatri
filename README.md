@@ -15,7 +15,7 @@ Thank you for visiting my profile, and I hope you enjoy exploring my projects!
 # 📝 My projects
 
 - Portfolio : Portfolio website<br>
-  Built using Next.js, Tailwind CSS and TypeScript. Deployed on Cloudflare.<br>
+  Built using Next.js, Tailwind CSS and TypeScript.<br>
   Checkout here :- [Live Link](https://chhatreshkhatri.com/) &emsp; [source code](https://github.com/Chhatreshkhatri/portfolio-nextjs)
 
 - Ramaa Creations : An e-commerce homemade Jewellery website<br>
