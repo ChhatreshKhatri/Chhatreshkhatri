@@ -59,6 +59,7 @@ Thank you for visiting my profile, and I hope you enjoy exploring my projects!
 ![Node](https://img.shields.io/badge/Node.js-233056.svg?style=flat&logo=nodedotjs)
 ![React](https://img.shields.io/badge/React.js-282c34.svg?style=flat&logo=react&logoColor=61dafb)
 ![Next](https://img.shields.io/badge/Next.js-000000.svg?&logo=nextdotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE.svg?&logo=Astro&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4.svg?style=flat&logo=Axios&logoColor=white)
 ![React-redux](https://img.shields.io/badge/Redux-764ABC.svg?style=flat&logo=Redux&logoColor=white)
