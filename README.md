@@ -1,6 +1,6 @@
 # 💫 About Me
 
-Welcome to my GitHub profile! I am a Full Stack Developer with a passion for building modern, user-friendly websites and applications. On this profile, you will find a range of projects that showcase my skills in front-end development, back-end development, and full-stack development.
+Welcome to my GitHub profile! I am a Software Engineer with a passion for building modern, user-friendly websites and applications. On this profile, you will find a range of projects that showcase my skills in front-end development, back-end development, and programming.
 
 Some of the projects you'll find on this profile include [My Projects](#-my-projects). These projects were built using [Tech Stack](#-tech-stack), and showcase my ability to write clean, modular code and follow industry best practices.
 
@@ -21,14 +21,18 @@ Thank you for visiting my profile, and I hope you enjoy exploring my projects!
 - Ramaa Creations : An e-commerce homemade Jewellery website<br>
   built using Alibaba Cloud Tools (Alicms) at Alibaba Cloud Low-Code Development Contest 2022.<br>
   Checkout here :- [Link](https://www.alibabacloud.com/blog/598812)
-
-- Amazon-clone : An E-Commerce website<br>
-  Built using HTML, CSS, React Js, stripe, Firebase, Git & GitHub with VS Code IDE.<br/>
-  Checkout here :- [Live link](https://amazonclone.chhatreshkhatri.com/) &emsp; [Source Code](https://github.com/Chhatreshkhatri/amazon-clone)
+  
+- Visits Counter : Real-time web application displaying website visits svg badge<br>
+  Built using MongoDB, Express, React,TailwindCSS, Git & GitHub with VS Code IDE.<br/>
+  Checkout here :- [Live link](https://visits.chhatreshkhatri.com/) &emsp; [Source Code](https://github.com/Chhatreshkhatri/visits-counter)
 
 - StackOverrflow-clone : A question and answer website with integrated chatbot<br>
   Built using HTML, CSS, JavaScript, React Js, ExpressJS, Mongoose, Git & GitHub with VS Code IDE.<br/>
   Checkout here :- [Live link](https://soclone.chhatreshkhatri.com/) &emsp; [Source Code](https://github.com/Chhatreshkhatri/stack-overflow-clone)
+  
+- Amazon-clone : An E-Commerce website<br>
+  Built using HTML, CSS, React Js, stripe, Firebase, Git & GitHub with VS Code IDE.<br/>
+  Checkout here :- [Live link](https://amazonclone.chhatreshkhatri.com/) &emsp; [Source Code](https://github.com/Chhatreshkhatri/amazon-clone)
 
 - MyChat : A simple android chat application<br>
   Built using JAVA, Firebase, Git & GitHub with Android Studio IDE.<br>
