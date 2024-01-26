@@ -34,9 +34,9 @@ Thank you for visiting my profile, and I hope you enjoy exploring my projects!
   Built using HTML, CSS, React Js, stripe, Firebase, Git & GitHub with VS Code IDE.<br/>
   Checkout here :- [Live link](https://amazonclone.chhatreshkhatri.com/) &emsp; [Source Code](https://github.com/Chhatreshkhatri/amazon-clone)
 
-- MyChat : A simple android chat application<br>
-  Built using JAVA, Firebase, Git & GitHub with Android Studio IDE.<br>
-  Checkout here :- [Source Code](https://github.com/Chhatreshkhatri/MyChat)
+- A VPS server: Ubuntu 23.10 x64<br>
+  Node, Git, Nginx.<br>
+  Checkout here :- [Live Link](https://chhatreshkhatri.com)
 
 <br>
 
