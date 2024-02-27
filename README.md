@@ -34,9 +34,9 @@ Thank you for visiting my profile, and I hope you enjoy exploring my projects!
   Built using HTML, CSS, React Js, stripe, Firebase, Git & GitHub with VS Code IDE.<br/>
   Checkout here :- [Live link](https://amazonclone.chhatreshkhatri.com/) &emsp; [Source Code](https://github.com/Chhatreshkhatri/amazon-clone)
 
-- A VPS server: Ubuntu 23.10 x64<br>
-  Node, Git, Nginx.<br>
-  Checkout here :- [Live Link](https://chhatreshkhatri.com)
+- A VPS server: Windows server 2022 x64<br>
+  digitalocean droplet<br>
+  Checkout here :- [Live Link](https://chhatreshkhatri.me)
 
 <br>
 
