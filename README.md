@@ -18,6 +18,10 @@ Thank you for visiting my profile, and I hope you enjoy exploring my projects!
   Built using Next.js, Tailwind CSS and TypeScript.<br>
   Checkout here :- [Live Link](https://chhatreshkhatri.com/) &emsp; [source code](https://github.com/Chhatreshkhatri/portfolio-nextjs)
 
+- FarmConnect : FarmConnect simplifies livestock management for owners and suppliers.<br>
+  Built using .NET, Angular, SQL Server<br>
+  Checkout here :- [source code](https://github.com/ChhatreshKhatri/FarmConnect)
+
 - Ramaa Creations : An e-commerce homemade Jewellery website<br>
   built using Alibaba Cloud Tools (Alicms) at Alibaba Cloud Low-Code Development Contest 2022.<br>
   Checkout here :- [Link](https://www.alibabacloud.com/blog/598812)
@@ -118,5 +122,5 @@ Thank you for visiting my profile, and I hope you enjoy exploring my projects!
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/chhatreshkhatri)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/chhatreshkhatri/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/chhatreshkhatri/)
-[![GFG](https://img.shields.io/badge/GeeksforGeeks-2F8D46.svg?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/chhatreshkhatri)
+[![GFG](https://img.shields.io/badge/GeeksforGeeks-2F8D46.svg?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/chhatreshkhatri/)
 [![Steam](https://img.shields.io/badge/Steam-1b2838.svg?style=for-the-badge&logo=Steam)](https://steamcommunity.com/id/mckxsun/)
