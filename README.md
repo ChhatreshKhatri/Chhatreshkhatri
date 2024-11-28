@@ -16,7 +16,7 @@ Thank you for visiting my profile, and I hope you enjoy exploring my projects!
 
 - Portfolio : Portfolio website<br>
   Built using Next.js, Tailwind CSS and TypeScript.<br>
-  Checkout here :- [Live Link](https://chhatreshkhatri.com/) &emsp; [source code](https://github.com/Chhatreshkhatri/portfolio-nextjs)
+  Checkout here :- [Live Link](https://www.chhatreshkhatri.com/) &emsp; [source code](https://github.com/Chhatreshkhatri/portfolio-nextjs)
 
 - FarmConnect : FarmConnect simplifies livestock management for owners and suppliers.<br>
   Built using .NET, Angular, SQL Server<br>
@@ -115,7 +115,7 @@ Thank you for visiting my profile, and I hope you enjoy exploring my projects!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/chhatreshkhatri)
 [![Email](https://img.shields.io/badge/Email-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:contact@chhatreshkhatri.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/chhatreshkhatri)
+[![Twitter](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/chhatreshkhatri)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/chhatreshkhatri/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/chhatreshkhatri/)
 [![GFG](https://img.shields.io/badge/GeeksforGeeks-2F8D46.svg?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/chhatreshkhatri/)
