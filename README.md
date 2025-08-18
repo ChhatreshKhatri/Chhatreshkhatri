@@ -20,7 +20,7 @@ Thank you for visiting my profile, and I hope you enjoy exploring my projects!
 
 - FarmConnect : FarmConnect simplifies livestock management for owners and suppliers.<br>
   Built using .NET, Angular, SQL Server<br>
-  Checkout here :- [source code](https://github.com/ChhatreshKhatri/FarmConnect)
+  Checkout here :- [Live Link](https://farmconnect.chhatreshkhatri.com/) &emsp; [source code](https://github.com/ChhatreshKhatri/FarmConnect-Next.jsApp)
 
 - Ramaa Creations : An e-commerce homemade Jewellery website<br>
   built using Alibaba Cloud Tools (Alicms) at Alibaba Cloud Low-Code Development Contest 2022.<br>
@@ -114,7 +114,7 @@ Thank you for visiting my profile, and I hope you enjoy exploring my projects!
 # 📫 Social Profiles
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/chhatreshkhatri)
-[![Email](https://img.shields.io/badge/Email-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:contact@chhatreshkhatri.com)
+[![Email](https://img.shields.io/badge/Email-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ck@chhatreshkhatri.com)
 [![Twitter](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/chhatreshkhatri)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/chhatreshkhatri/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/chhatreshkhatri/)
